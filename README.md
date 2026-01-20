@@ -1,19 +1,18 @@
----
-##Introduction
-
-This repository documents my technical contributions to an academic research project focused on *large scale analysis of unstructured document data.* My work centered on designing and implementing a scalable data processing pipeline that converts raw document exports into clean, structured, and analysis ready datasets.
-
-The project required working with messy, real world text data and emphasized automation, reproducibility, and data quality. Using Python, I built workflows for document ingestion, text normalization, article level segmentation, metadata extraction, and keyword based flagging to support efficient research use.
-
-This repository highlights the technical methods and tools I developed, independent of unpublished research findings, and reflects my experience applying data engineering and analytics skills in an academic research setting.
----
-
 # Technical Research Contribution
 
 **Independent Research Support Project**  
 **Haeun (Sally) Bae**
 
 ---
+
+## Introduction
+
+This repository documents my technical contributions to an academic research project focused on large scale analysis of unstructured document data. My work centered on designing and implementing a scalable data processing pipeline that converts raw document exports into clean, structured, and analysis ready datasets.
+
+The project required working with messy, real world text data and emphasized automation, reproducibility, and data quality. Using Python, I built workflows for document ingestion, text normalization, article level segmentation, metadata extraction, and keyword based flagging to support efficient research use.
+
+This repository highlights the technical methods and tools I developed, independent of unpublished research findings, and reflects my experience applying data engineering and analytics skills in an academic research setting.
+
 
 ## Project Objective
 
