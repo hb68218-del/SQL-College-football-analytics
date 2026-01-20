@@ -1,6 +1,5 @@
-# Technical Research Contribution
+# College Football SQL Analytics Project
 
-**Independent Research Support Project**  
 **Haeun (Sally) Bae**
 
 ---
